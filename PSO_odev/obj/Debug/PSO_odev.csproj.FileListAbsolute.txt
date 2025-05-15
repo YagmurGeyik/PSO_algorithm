@@ -1,0 +1,10 @@
+C:\Users\Yağmur Geyik\source\repos\PSO_odev\PSO_odev\obj\Debug\PSO_odev.csproj.AssemblyReference.cache
+C:\Users\Yağmur Geyik\source\repos\PSO_odev\PSO_odev\obj\Debug\PSO_odev.Form1.resources
+C:\Users\Yağmur Geyik\source\repos\PSO_odev\PSO_odev\obj\Debug\PSO_odev.Properties.Resources.resources
+C:\Users\Yağmur Geyik\source\repos\PSO_odev\PSO_odev\obj\Debug\PSO_odev.csproj.GenerateResource.cache
+C:\Users\Yağmur Geyik\source\repos\PSO_odev\PSO_odev\obj\Debug\PSO_odev.csproj.CoreCompileInputs.cache
+C:\Users\Yağmur Geyik\source\repos\PSO_odev\PSO_odev\bin\Debug\PSO_odev.exe.config
+C:\Users\Yağmur Geyik\source\repos\PSO_odev\PSO_odev\bin\Debug\PSO_odev.exe
+C:\Users\Yağmur Geyik\source\repos\PSO_odev\PSO_odev\bin\Debug\PSO_odev.pdb
+C:\Users\Yağmur Geyik\source\repos\PSO_odev\PSO_odev\obj\Debug\PSO_odev.exe
+C:\Users\Yağmur Geyik\source\repos\PSO_odev\PSO_odev\obj\Debug\PSO_odev.pdb
